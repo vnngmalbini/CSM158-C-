@@ -1,2 +1,2 @@
 # CSM158-C-
-My name is Ngmalini Veronica Nakol.A computer science student at KNUST.
+This repository is to host my C++ files for level 100
